@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xydWork/yadong.github.io.git"
+    "url": "git+https://github.com/shelden-xie/shelden-xie.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xydWork/yadong.github.io/issues"
+    "url": "https://github.com/shelden-xie/shelden-xie.github.io/issues"
   },
-  "homepage": "https://github.com/xydWork/yadong.github.io#readme",
+  "homepage": "https://github.com/shelden-xie/shelden-xie.github.io#readme",
   "directories": {
     "doc": "docs"
   }

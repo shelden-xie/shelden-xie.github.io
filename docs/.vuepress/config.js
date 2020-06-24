@@ -34,7 +34,23 @@ module.exports = {
             title:'其他模块',
             collapsable: false,
           }
-        ]
+        ],
+        '/interview/':[
+          {
+            title:'面试整理',
+            collapsable: false,
+            children:[
+              'onetest'
+            ]
+          },
+          {
+            title:'面试分类',
+            collapsable: false,
+            children:[
+              'algorithm'
+            ]
+          },
+        ],
       },
       // 搜索
       search: true,

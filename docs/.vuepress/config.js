@@ -23,7 +23,6 @@ module.exports = {
             title:'介绍',
             collapsable: false,
             children:[
-              'introduce',
               'notes-promise'
             ]
           },

@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "33a7dbd1f78872febf563e6151abef9b"
+    "revision": "ee98709dd3ad9a9a75b45d98cc399985"
   },
   {
     "url": "assets/css/0.styles.9983b828.css",
@@ -38,10 +38,6 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.23a8f878.js",
-    "revision": "7e5e1dd9397ec6be944593d5e66c5576"
-  },
-  {
     "url": "assets/js/2.08fb9a7f.js",
     "revision": "134a307adab38587fec8be216c42d461"
   },
@@ -50,8 +46,8 @@ self.__precacheManifest = [
     "revision": "9e5d685dc115ea5d004667141271ce6c"
   },
   {
-    "url": "assets/js/4.dfb9703e.js",
-    "revision": "e8a19b62aa85b510f9f34d11098e97f2"
+    "url": "assets/js/4.a1b1200d.js",
+    "revision": "497bd6e0a624a36cbf7b2cc90eb66b02"
   },
   {
     "url": "assets/js/5.691589d4.js",
@@ -66,32 +62,28 @@ self.__precacheManifest = [
     "revision": "440dcf274f30ed64c6d435e4d37a0e81"
   },
   {
-    "url": "assets/js/8.20472c33.js",
-    "revision": "3708206d23f976f4cebb5803dd70f617"
+    "url": "assets/js/8.0c221529.js",
+    "revision": "a4e0c521e9ab297f49f0c7ce35799fff"
   },
   {
-    "url": "assets/js/9.16072e07.js",
-    "revision": "860faf5b37402809140cebe9edf5061d"
+    "url": "assets/js/9.2dce55e1.js",
+    "revision": "5636a841828a7f6846f89b1f6fbb380e"
   },
   {
-    "url": "assets/js/app.13e59573.js",
-    "revision": "eb755be25fe83b3cc632c33600a056c9"
+    "url": "assets/js/app.ec651f1a.js",
+    "revision": "e266c34551a05033c97621d85044aa82"
   },
   {
     "url": "blog/index.html",
-    "revision": "76a87bfa36d69c7977161bd119148781"
-  },
-  {
-    "url": "blog/introduce.html",
-    "revision": "02b2e1ff62d78d45b4a1bd34236b0db3"
+    "revision": "1f9191654481fb2fe8b5a5720458b19a"
   },
   {
     "url": "blog/notes-promise.html",
-    "revision": "84a72b56e14cc5081ed7a638f0b1c3a4"
+    "revision": "d8d27ffe02193f29961b0b34f678018e"
   },
   {
     "url": "index.html",
-    "revision": "3aa89df1d21d79a75b48e68cdc293719"
+    "revision": "819273276aeae8b9ddbf5033a91c79f4"
   },
   {
     "url": "verify_sheild.png",

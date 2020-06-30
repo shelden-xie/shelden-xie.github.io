@@ -51,6 +51,15 @@ module.exports = {
             ]
           },
         ],
+        '/material/':[
+          {
+            title:'函数式编程',
+            collapsable: false,
+            children:[
+              'function-fp'
+            ]
+          }
+        ]
       },
       // 搜索
       search: true,

@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "57c7018d2a8c6508ddaa473aaa225ecf"
+    "revision": "1285a83282af4411447542237be28ea2"
   },
   {
     "url": "assets/css/0.styles.9983b828.css",
@@ -90,40 +90,40 @@ self.__precacheManifest = [
     "revision": "6e577925e41d83f574f56d2598459bdf"
   },
   {
-    "url": "assets/js/app.a59c3541.js",
-    "revision": "c286ae290f2d1dffb555794a93d81140"
+    "url": "assets/js/app.200c7b8a.js",
+    "revision": "dc83f1261f6627670ebb4830bdb90d09"
   },
   {
     "url": "blog/index.html",
-    "revision": "a000fe938503fc2e2d7af935a53e857e"
+    "revision": "44aacce27043d305b21e7c7e84ebb676"
   },
   {
     "url": "blog/notes-promise.html",
-    "revision": "c923e07963c6be43935e38136128d915"
+    "revision": "21de86882721a3edd6aa4888ddf54969"
   },
   {
     "url": "index.html",
-    "revision": "def62ac876fac8aa0fe0cf4fb59ab458"
+    "revision": "f8cd87691bcfca60ebf78e8f6f2ac4b4"
   },
   {
     "url": "interview/algorithm.html",
-    "revision": "6fdde6f8dba510239e3528e0fa36d9db"
+    "revision": "a52c1da3c4a4074a004c9655a89634b2"
   },
   {
     "url": "interview/index.html",
-    "revision": "c70d05eaa3dde2787974e044b5995bad"
+    "revision": "7f0e024388bdc17996907ecd7b4bf871"
   },
   {
     "url": "interview/onetest.html",
-    "revision": "53905f8bc80bf13961ae1b51495330c7"
+    "revision": "8073e21bbffb00487f512f11dd5751d7"
   },
   {
     "url": "material/function-fp.html",
-    "revision": "e250fe303ee97845952d200c8be91c62"
+    "revision": "f6374eab5721a326a7bae8cd8f02a780"
   },
   {
     "url": "material/index.html",
-    "revision": "92a676b18530f9566e297aec5e0edc61"
+    "revision": "2267ac06f8507f7d16c0146e89fa8bcb"
   },
   {
     "url": "verify_sheild.png",

@@ -1,5 +1,5 @@
 module.exports = {
-    title: '兰天日志',
+    title: '前端胖胖',
     description: '孤独忧郁的前端胖胖',
     markdown: {
       lineNumbers: true,

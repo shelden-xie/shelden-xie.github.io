@@ -123,16 +123,12 @@ pending 状态的 Promise 对象可能会变为fulfilled 状态并传递一个�
 
     // Promise { <state>: "fulfilled", <value>: [1,2,3,4] }
     // Promise { <state>: "rejected", <reason>: 555 }
-    ``
-    `  
+```  
   
 **2.Promise.race(iterable)**  
+方法返回一个 promise，一旦迭代器中的某个promise解决或拒绝，返回的 promise就会解决或拒绝。  
 
-方法返回一个 promise，一旦迭代器中的某个promise解决或拒绝，返回的 promise就会解决或拒绝。
-
-`
-    ``
-    javascript
+``` js
     var p1 = new Promise(function(resolve, reject) {
       setTimeout(resolve, 500, "one");
     });

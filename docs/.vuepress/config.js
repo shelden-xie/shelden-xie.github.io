@@ -20,10 +20,11 @@ module.exports = {
       sidebar: {
         '/blog/':[
           {
-            title:'介绍',
+            title:'技术文章',
             collapsable: false,
             children:[
-              'notes-promise'
+              'notes-promise',
+              'notes-es6'
             ]
           },
           {

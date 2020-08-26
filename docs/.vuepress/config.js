@@ -48,7 +48,9 @@ module.exports = {
             title:'面试分类',
             collapsable: false,
             children:[
-              'algorithm'
+              'algorithm',
+              'EventEmitter',
+              'jswork'
             ]
           },
         ],

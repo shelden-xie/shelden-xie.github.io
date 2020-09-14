@@ -93,7 +93,7 @@ class EventEmiter {
       }
       // 是否为数组
       if(Array.isArray(event)){
-        event.forEach(evt=>this.off(event,cb))
+        event.forEach(fn=>this.off(fn,cb))
       }
       // 只提供事件
       if(!cb){
